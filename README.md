@@ -1,15 +1,14 @@
 #  Solution of Team lyy1 for FLARE2024 Challenge
 
-## This repository is the official implementation of [Crop and Segment: Efficient Whole body
-pan-cancer segmentation](https://drive.google.com/file/d/1BZoABEBkfdd0j8t2B7nrgdMDKNs99rt4/view?usp=drive_link) of Team lyy1 on FLARE24 challenge.
+## This repository is the official implementation of [Crop and Segment: Efficient Whole body pan-cancer segmentation](https://drive.google.com/file/d/1BZoABEBkfdd0j8t2B7nrgdMDKNs99rt4/view?usp=drive_link) of Team lyy1 on FLARE24 challenge.
 
 ## Introduction
 
 ### Overview of our work.
 
-![image](./IMG/roi.png)
+![image](https://github.com/lay-john/FLARE24-Task1/blob/master/IMG/Fill.png)
 
-![image](./IMG/fill.png)
+![image](https://github.com/lay-john/FLARE24-Task1/blob/master/IMG/Roi.png)
 
 
 
